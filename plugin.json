@@ -1,0 +1,18 @@
+{
+  "name": "egm-conductor",
+  "displayName": "EGM Conductor",
+  "version": "1.0.0",
+  "description": "Autonomous orchestrator for the Elephant-Goldfish Model (EGM): translates natural-language prompts into the right EGM skills, adaptive review presets, and isolated Goldfish reviewers with minimal friction.",
+  "logo": "assets/logo.jpg",
+  "author": {
+    "name": "toniette",
+    "url": "https://github.com/toniette"
+  },
+  "homepage": "https://github.com/toniette/egm-conductor",
+  "repository": "https://github.com/toniette/egm-conductor",
+  "suggestedPrompts": [
+    "Design a new feature end-to-end from an open idea",
+    "Review the current design draft and triage findings for my approval",
+    "Audit whether the codebase has drifted from docs/designs/"
+  ]
+}
